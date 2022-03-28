@@ -1,6 +1,12 @@
 # Cache-Replacement-Algorithms_COA
-These programs in this repository are implementation of cache algorithms
-![Inclusions]
+These programs in this repository are implementation of various cache algorithms
+
+
+
+# [Inclusions]
+
+
+
 1.Direct mapping 
 2.Associative mapping
 3.Kset associative mapping
@@ -8,4 +14,5 @@ These programs in this repository are implementation of cache algorithms
 
 All these will be up here soon 
 
-Essentialy they compute cache hit rates via different algorithms
+Essentialy they compute cache hit rates via different algorithms given a cache request sequence :)
+
