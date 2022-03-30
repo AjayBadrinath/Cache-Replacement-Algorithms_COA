@@ -18,7 +18,11 @@ These programs in this repository are implementation of various cache algorithms
 
 
 
+# [Experimental Approach ! Non standard Approach!]
 
+4.Probablistic Model Approach (Yet to implement !!)[Bayesian model]
+
+5.Frequeny Map Approach 
 
 All these will be up here soon 
 
