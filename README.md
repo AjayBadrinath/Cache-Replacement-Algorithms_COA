@@ -7,16 +7,16 @@ These programs in this repository are implementation of various cache algorithms
 
 
 
-1.Direct mapping 
+1.Direct mapping ✅
 
 
-2.Associative mapping
+2.Associative mapping ✅
 
 
 
-3.Kset associative mapping
+3.Kset associative mapping ✅
 
-
+✅-Implementation Complete!
 
 # [Experimental Approach ! Non standard Approach!]
 
